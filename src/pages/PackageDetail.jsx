@@ -42,8 +42,8 @@ const GALLERY = {
   ],
   'varanasi-spiritual-4d': [
     'https://i.pinimg.com/736x/50/e0/a5/50e0a58aa4cb0cddc2cc131b4989d339.jpg',
-    'https://images.unsplash.com/photo-1584824486509-112e4181ff6b?auto=format&fit=crop&w=800&q=80',
-    'https://images.unsplash.com/photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=800&q=80',
+    'https://hblimg.mmtcdn.com/content/hubble/img/desttvimg/mmt/destination/m_varanasi_tv_destination_img_1_l_960_1430.jpg',
+    'https://triptovaranasi.in/wp-content/uploads/2023/04/42jcrbfrs5kxgsh6jccmum52bpwg_Enjoy-a-pleasant-trip-to-Varanasi.webp',
   ],
   'manali-adventure-5d': [
     'https://discoverkullumanali.in/wp-content/uploads/2019/10/Tourists-enjoy-snow-at-Rohtang-pass-6.jpg',
