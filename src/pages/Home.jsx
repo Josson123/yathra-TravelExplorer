@@ -358,7 +358,7 @@ export default function Home() {
 
       {/* =========== FOOTER =========== */}
       <footer className="glass border-t border-white/5 mt-16 py-8 text-center text-slate-500 text-sm">
-        <p>© 2026 Wanderlust Explorer · Built for AIIP Task 1</p>
+        <p>© 2026 Wanderlust Explorer </p>
       </footer>
     </div>
   )
