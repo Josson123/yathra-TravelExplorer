@@ -30,8 +30,8 @@ Each package has an `"image"` field. To swap an image:
 }
 ```
 
-### Using Unsplash (Recommended)
-Go to [unsplash.com](https://unsplash.com), find a photo, copy the URL and append:
+### Uploading online images
+Find any image from any site , copy the URL and append:
 ```
 ?auto=format&fit=crop&w=900&q=80
 ```
