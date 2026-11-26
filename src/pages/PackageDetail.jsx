@@ -316,7 +316,7 @@ export default function PackageDetail() {
                 to={`/book/${pkg.id}`}
                 className="block liquid-btn text-center py-3.5 rounded-xl text-white font-bold text-sm w-full"
               >
-                🛫 Book This Trip
+                Book This Trip
               </Link>
 
               <button
