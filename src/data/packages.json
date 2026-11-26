@@ -1,0 +1,164 @@
+[
+  {
+    "id": "munnar-mist-3d",
+    "title": "Munnar Tea Hills & Mist Escape",
+    "location": "Idukki, Kerala",
+    "category": "Hill Station",
+    "duration": "3 Days / 2 Nights",
+    "pricePerPerson": 7500,
+    "rating": 4.8,
+    "image": "https://hblimg.mmtcdn.com/content/hubble/img/destimg/mmt/destination/m_Munnar_main_tv_destination_img_1_l_630_946.jpg",
+    "summary": "Explore rolling tea estates, misty viewpoints, and cool highland trails in the lap of the Western Ghats.",
+    "highlights": ["Eravikulam viewpoint", "Tea museum walkthrough", "Guided morning nature walk", "Mattupetty Dam boat ride"],
+    "itinerary": [
+      { "day": 1, "title": "Arrival & Tea Estate Walk", "description": "Check in to your hillside resort. Evening guided walk through the aromatic tea estates with sunset views." },
+      { "day": 2, "title": "Viewpoints & Museum", "description": "Visit Eravikulam National Park, explore the Tea Museum, and witness the mesmerizing Attukal Waterfalls." },
+      { "day": 3, "title": "Leisure & Departure", "description": "Morning at Mattupetty Dam. Post-breakfast departure with memories to cherish forever." }
+    ],
+    "inclusions": ["Accommodation (2 nights)", "Daily breakfast & dinner", "Guided tea estate tour", "All transfers"],
+    "exclusions": ["Airfare / Train tickets", "Personal expenses", "Lunch", "Entry fees to national parks"]
+  },
+  {
+    "id": "alleppey-backwaters-4d",
+    "title": "Alleppey Backwater Bliss",
+    "location": "Alappuzha, Kerala",
+    "category": "Beach",
+    "duration": "4 Days / 3 Nights",
+    "pricePerPerson": 11000,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=900&q=80",
+    "summary": "Drift through emerald canals on a luxury houseboat, surrounded by swaying palms and serene village life.",
+    "highlights": ["Private houseboat stay", "Sunrise kayaking", "Local fish market visit", "Kumarakom bird sanctuary"],
+    "itinerary": [
+      { "day": 1, "title": "Arrival & Houseboat Check-in", "description": "Board your private houseboat in the afternoon. Enjoy a sunset cruise through the tranquil backwaters." },
+      { "day": 2, "title": "Village Life & Canals", "description": "Morning kayaking at sunrise. Visit local coir weaving villages and enjoy a traditional Kerala thali lunch." },
+      { "day": 3, "title": "Kumarakom Bird Sanctuary", "description": "Early morning birdwatching at the famous sanctuary. Afternoon cooking class — learn to make Kerala prawn curry." },
+      { "day": 4, "title": "Leisure & Departure", "description": "Final morning cruise before check-out. Transfer to Cochin airport or railway station." }
+    ],
+    "inclusions": ["Luxury houseboat (3 nights)", "All meals on houseboat", "Kayaking session", "Village tour"],
+    "exclusions": ["Travel to Alleppey", "Alcohol", "Tips", "Personal shopping"]
+  },
+  {
+    "id": "rajasthan-heritage-6d",
+    "title": "Royal Rajasthan Heritage Trail",
+    "location": "Jaipur & Jodhpur, Rajasthan",
+    "category": "Heritage",
+    "duration": "6 Days / 5 Nights",
+    "pricePerPerson": 18500,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?auto=format&fit=crop&w=900&q=80",
+    "summary": "Walk through golden forts, blue-painted havelis, and vibrant bazaars of royal Rajasthan.",
+    "highlights": ["Amber Fort light & sound show", "Blue City walking tour", "Camel safari at sunset", "Traditional Rajasthani dinner"],
+    "itinerary": [
+      { "day": 1, "title": "Arrival in Jaipur – Pink City", "description": "Check in to heritage hotel. Evening walk through Johari Bazaar and visit Hawa Mahal at dusk." },
+      { "day": 2, "title": "Forts & Palaces", "description": "Full-day tour of Amber Fort, City Palace, and Jantar Mantar. Witness the grand light & sound show." },
+      { "day": 3, "title": "Jaipur to Jodhpur", "description": "Drive to the Blue City. Check in and explore Mehrangarh Fort's towering ramparts." },
+      { "day": 4, "title": "Blue City Walk", "description": "Guided walking tour through cobalt blue lanes, ancient step wells, and the vibrant Sardar Market." },
+      { "day": 5, "title": "Camel Safari & Cultural Evening", "description": "Sunset camel safari in the dunes. Traditional folk music and Rajasthani dinner under the stars." },
+      { "day": 6, "title": "Departure", "description": "Post-breakfast check-out and transfer to Jodhpur airport." }
+    ],
+    "inclusions": ["Heritage hotel stays (5 nights)", "Breakfast daily", "All sightseeing", "Camel safari", "Cultural show"],
+    "exclusions": ["Flights", "Lunch & dinner (except Day 5)", "Shopping", "Camera fees at monuments"]
+  },
+  {
+    "id": "andaman-adventure-5d",
+    "title": "Andaman Island Adventure",
+    "location": "Port Blair & Havelock, Andaman",
+    "category": "Adventure",
+    "duration": "5 Days / 4 Nights",
+    "pricePerPerson": 22000,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=900&q=80",
+    "summary": "Dive into crystal-clear waters, trek through rainforests, and discover pristine coral reefs in the Andaman Sea.",
+    "highlights": ["Scuba diving at Elephant Beach", "Glass-bottom boat ride", "Radhanagar Beach sunset", "Cellular Jail tour"],
+    "itinerary": [
+      { "day": 1, "title": "Arrival in Port Blair", "description": "Check in and visit the historic Cellular Jail. Attend the moving light & sound show in the evening." },
+      { "day": 2, "title": "Port Blair to Havelock Island", "description": "Ferry to Havelock Island. Check in to beachside resort. Afternoon at Neil's Cove." },
+      { "day": 3, "title": "Scuba Diving & Snorkeling", "description": "Morning scuba diving at Elephant Beach (beginner-friendly). Afternoon snorkeling and glass-bottom boat ride." },
+      { "day": 4, "title": "Radhanagar Beach", "description": "Full day at Radhanagar Beach — consistently ranked Asia's best beach. Sunset photography session." },
+      { "day": 5, "title": "Return & Departure", "description": "Morning ferry back to Port Blair. Shopping at Aberdeen Bazaar before departure." }
+    ],
+    "inclusions": ["4 nights accommodation", "Breakfast & dinner", "Ferry transfers", "Scuba diving session", "All sightseeing"],
+    "exclusions": ["Flights to Port Blair", "Lunch", "Additional water sports", "Shopping"]
+  },
+  {
+    "id": "coorg-coffee-3d",
+    "title": "Coorg Coffee Trail & Waterfalls",
+    "location": "Kodagu, Karnataka",
+    "category": "Hill Station",
+    "duration": "3 Days / 2 Nights",
+    "pricePerPerson": 8500,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=900&q=80",
+    "summary": "Breathe in the aroma of freshly brewed coffee, trek to misty waterfalls, and unwind in a lush green sanctuary.",
+    "highlights": ["Coffee plantation tour", "Abbey Falls trek", "Dubare Elephant Camp", "Raja's Seat sunset view"],
+    "itinerary": [
+      { "day": 1, "title": "Arrival & Plantation Tour", "description": "Check in to a coffee estate homestay. Evening guided tour of the coffee plantation with a coffee tasting session." },
+      { "day": 2, "title": "Waterfalls & Elephant Camp", "description": "Trek to Abbey Falls. Afternoon visit to Dubare Elephant Camp for elephant bathing experience." },
+      { "day": 3, "title": "Raja's Seat & Departure", "description": "Sunrise at Raja's Seat. Post-breakfast check-out and departure." }
+    ],
+    "inclusions": ["Homestay (2 nights)", "All meals", "Plantation tour", "Elephant camp visit", "Local guide"],
+    "exclusions": ["Travel to Coorg", "Personal shopping", "Tips", "Alcohol"]
+  },
+  {
+    "id": "varanasi-spiritual-4d",
+    "title": "Varanasi – Soul of India",
+    "location": "Varanasi, Uttar Pradesh",
+    "category": "Heritage",
+    "duration": "4 Days / 3 Nights",
+    "pricePerPerson": 9500,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1561361058-c24e8a2b7a53?auto=format&fit=crop&w=900&q=80",
+    "summary": "Witness the eternal rhythm of life and death at the ghats of the holy Ganges, the world's oldest living city.",
+    "highlights": ["Ganga Aarti at Dashashwamedh Ghat", "Sunrise boat ride", "Sarnath Buddhist tour", "Old city silk weaving visit"],
+    "itinerary": [
+      { "day": 1, "title": "Arrival & Ganga Aarti", "description": "Check in to heritage guesthouse. Evening Ganga Aarti ceremony — a mesmerizing spiritual spectacle." },
+      { "day": 2, "title": "Ghats & Old City", "description": "Pre-dawn boat ride on the Ganges. Walk through the narrow lanes of Vishwanath Gali and explore the old city." },
+      { "day": 3, "title": "Sarnath – Buddha's First Sermon", "description": "Day trip to Sarnath — the birthplace of Buddhism. Visit the Dhamek Stupa and Archaeological Museum." },
+      { "day": 4, "title": "Silk Weaving & Departure", "description": "Visit a traditional Banarasi silk weaving workshop. Post-lunch check-out and departure." }
+    ],
+    "inclusions": ["Heritage guesthouse (3 nights)", "Breakfast daily", "Boat ride", "Sarnath tour", "Local guide"],
+    "exclusions": ["Train / flight tickets", "Lunch & dinner", "Puja offerings", "Personal expenses"]
+  },
+  {
+    "id": "manali-adventure-5d",
+    "title": "Manali Snow & Adventure Rush",
+    "location": "Kullu-Manali, Himachal Pradesh",
+    "category": "Adventure",
+    "duration": "5 Days / 4 Nights",
+    "pricePerPerson": 14000,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?auto=format&fit=crop&w=900&q=80",
+    "summary": "Race down snowy slopes, river-raft through gorges, and camp under a billion stars in the Himalayan heights.",
+    "highlights": ["Rohtang Pass snow play", "River rafting on Beas", "Solang Valley zip-line", "Old Manali café hop"],
+    "itinerary": [
+      { "day": 1, "title": "Arrival in Manali", "description": "Settle into your mountain chalet. Evening stroll through the Mall Road and Hadimba Temple area." },
+      { "day": 2, "title": "Rohtang Pass", "description": "Full-day excursion to Rohtang Pass (subject to permit availability). Snow activities, photography, and hot chai." },
+      { "day": 3, "title": "River Rafting & Solang Valley", "description": "Morning river rafting on the Beas. Afternoon at Solang Valley — zip-line and paragliding." },
+      { "day": 4, "title": "Old Manali & Vashisht Springs", "description": "Explore Old Manali's bohemian cafés. Relax at the natural hot springs in Vashisht village." },
+      { "day": 5, "title": "Departure", "description": "Post-breakfast check-out. Transfer to Kullu airport or Manali bus stand." }
+    ],
+    "inclusions": ["Chalet stay (4 nights)", "Breakfast & dinner", "Rohtang permit", "Rafting session", "Solang Valley activities"],
+    "exclusions": ["Flights/bus to Manali", "Paragliding (optional add-on)", "Lunch", "Personal gear"]
+  },
+  {
+    "id": "goa-beach-4d",
+    "title": "Goa – Sun, Sand & Spice",
+    "location": "North & South Goa",
+    "category": "Beach",
+    "duration": "4 Days / 3 Nights",
+    "pricePerPerson": 12500,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2?auto=format&fit=crop&w=900&q=80",
+    "summary": "From Anjuna's nightlife to Palolem's serenity — soak in the golden beaches, Portuguese heritage, and fiery Goan cuisine.",
+    "highlights": ["Dudhsagar Waterfall jeep safari", "Old Goa churches UNESCO tour", "Palolem Beach kayaking", "Goan seafood feast"],
+    "itinerary": [
+      { "day": 1, "title": "Arrival & North Goa", "description": "Check in to beachside villa. Evening at Calangute and Baga beaches. Sunset drinks at a cliff-top shack." },
+      { "day": 2, "title": "Dudhsagar & Spice Farm", "description": "Full-day jeep safari to Dudhsagar Falls. Visit an organic spice plantation for a farm-to-table lunch." },
+      { "day": 3, "title": "Old Goa Heritage & South Goa", "description": "Morning tour of Basilica of Bom Jesus and Sé Cathedral. Drive to South Goa's peaceful Palolem Beach." },
+      { "day": 4, "title": "Palolem Kayaking & Departure", "description": "Sunrise kayaking at Palolem. Post-breakfast check-out and departure." }
+    ],
+    "inclusions": ["Villa stay (3 nights)", "Breakfast daily", "Dudhsagar jeep safari", "Spice farm visit", "Heritage tour"],
+    "exclusions": ["Flights to Goa", "Lunch & dinner (except Day 2)", "Water sports", "Alcohol"]
+  }
+]
